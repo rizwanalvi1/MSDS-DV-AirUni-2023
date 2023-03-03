@@ -1,0 +1,14 @@
+# Assignment # 1
+preq.
+installation of posgres/postgis with docker
+connection and sql with dbeaver
+a. records and time for training whole dataset
+e.g. 1.9M  2 hours
+b. province wise training and prediction
+c. pdf say data banana
+
+links
+https://fbr.gov.pk/Categ/income-tax-directory/742
+https://download1.fbr.gov.pk/Docs/20209181193938934TaxDirectoryAnalysisforyearended30June2018.pdf
+
+
